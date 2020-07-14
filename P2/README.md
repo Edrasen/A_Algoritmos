@@ -7,7 +7,7 @@ Merge sort algorithm
 Find the beggin of decreasing order in an array ordered in both no-decreasing and decreasing order (brute force)
 
 **ejer2b.cpp**
-Same as ejer2a but in this version is not necessary go through all the array
+Same as ejer2a but in here is not necessary go through all the array
 
 **ejer3.cpp**
 Recursive product (French)
