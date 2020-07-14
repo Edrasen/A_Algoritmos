@@ -1,4 +1,4 @@
-··Practica 2 contains 4 different algorithms
+##Practica 2 contains 4 different algorithms
 
 ordermerge.cpp ----> Merge sort algorithm
 ejer2a.cpp     ----> Find the beggin of decreasing order in an array ordered in both no-decreasing and decreasing order (brute force)
